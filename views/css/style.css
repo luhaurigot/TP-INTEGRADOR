@@ -1,0 +1,12 @@
+
+#header{
+    background-color: #eac926;
+}
+
+#card{
+    background-color: #fafafa;
+    border: solid 1px lightgrey;
+    padding: 10px;
+    width: auto;
+    margin: 15px;
+}
